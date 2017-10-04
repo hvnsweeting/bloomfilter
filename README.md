@@ -1,6 +1,9 @@
 # Bloomfilter
 
+[![CircleCI](https://circleci.com/gh/hvnsweeting/bloomfilter.svg?style=svg)](https://circleci.com/gh/hvnsweeting/bloomfilter)
+
 Pure Elixir implementation of Bloomfilter
+
 
 ## Features
 
